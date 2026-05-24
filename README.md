@@ -1,16 +1,54 @@
-# React + Vite
+# Shopify CRM AI Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Modern Shopify CRM dashboard built using React.js with responsive UI, analytics cards, customer support management, refund tracking, live chat interface, and AI-powered support features.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Modern Dashboard UI
+- Shopify Order Management
+- Customer Support Ticket System
+- Refund Tracking Interface
+- Live Chat Section
+- AI Replies Dashboard
+- Analytics Overview
+- Responsive Design
+- Modern SaaS Layout
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- JavaScript
+- CSS3
+- Vite
 
-## Expanding the ESLint configuration
+## Modules
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Dashboard
+Overview of orders, revenue, refunds, and support activity.
+
+### Orders
+Track Shopify orders with payment status and customer details.
+
+### Tickets
+Customer support ticket management system.
+
+### Customers
+Customer records and support history.
+
+### Refunds
+Refund request tracking and payment issue handling.
+
+### Live Chat
+Modern customer support chat interface.
+
+### Analytics
+Business insights and analytics dashboard.
+
+### AI Replies
+AI-powered customer response management section.
+
+## Installation
+
+```bash
+npm install
+npm run dev
